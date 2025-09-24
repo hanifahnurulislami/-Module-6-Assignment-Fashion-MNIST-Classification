@@ -41,7 +41,6 @@ To run this code, make sure you have the following software and libraries instal
 * **Keras3**
 * **TensorFlow**
 * **ggplot2**
-* **reticulate** (to connect R with Python)
 
 ### How to Run the Code
 
@@ -63,7 +62,7 @@ To run this code, make sure you have the following software and libraries instal
     keras3::install_keras()
     ```
 3.  Open the `Module 6 Assignment.R` file in RStudio.
-4.  In RStudio, click the **"Source"** button (usually in the top-right corner of the script editor) to run the entire code from the start.
+4.  In RStudio, click the **"Source"** button to run the entire code from the start.
 
 ### Expected Output
 
